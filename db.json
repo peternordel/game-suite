@@ -1,0 +1,36 @@
+{
+  "profiles": [
+    {
+      "id": 0,
+      "name": "Peter",
+      "image": "/src/assets/card-back-green.jpg",
+      "isDarkMode": false
+    },
+    {
+      "name": "Pedar",
+      "image": "/src/assets/card-back-psych.jpg",
+      "isDarkMode": true,
+      "id": 1
+    }
+  ],
+  "scores": [
+    {
+      "id": 0,
+      "game": "concentration",
+      "name": "Peter",
+      "score": 50
+    },
+    {
+      "id": 1,
+      "game": "wordle",
+      "name": "Peter",
+      "score": 4
+    },
+    {
+      "game": "wordle",
+      "name": "PeterN",
+      "score": 1,
+      "id": 2
+    }
+  ]
+}
